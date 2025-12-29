@@ -1,0 +1,26 @@
+{
+  "name": "DGBase",
+  "version": "0.0.7",
+  "summary": "A short description of DGBase.",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangyi": "zhangyi@diguotech.com"
+  },
+  "homepage": "http://gitlab-xa.huoyfish.com/diguosdk/ios/dgsdk/DGBase",
+  "description": "TODO: Add long description of the pod here.",
+  "source": {
+    "http": "http://192.168.200.97:8081/repository/cocoapods/diguo/ios/frameworks/DGBase-0.0.7.zip",
+    "sha256": "2b06f900c6702fc0d52595672fcf4026aa601108c9e4a5f224e9fd30c28bd0b1"
+  },
+  "swift_versions": "5.0",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "ios": {
+    "vendored_frameworks": "ios/DGBase.xcframework"
+  },
+  "swift_version": "5.0"
+}
